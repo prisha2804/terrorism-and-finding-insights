@@ -1,0 +1,12 @@
+.custom-dropdown .Select-control, .Select div, .is-open>.Select-control{
+  color: black;
+  border-color: #E3A700;
+  border: 0 none transparent;
+  background-color: #9CAEB5;
+}
+.custom-dropdown .Select--multi .Select-value {
+  background-color: #4B0082;
+  border-color: #E3A700;
+  color: #fff;
+    overflow-x : hidden;
+}
